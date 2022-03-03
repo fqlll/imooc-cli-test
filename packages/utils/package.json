@@ -1,0 +1,19 @@
+{
+  "name": "@imooc-cli-test/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "费清 <louisfei@123u.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from utils\""
+  }
+}
