@@ -13,11 +13,19 @@
   "files": [
     "lib"
   ],
+  "bin": {
+    "imooc-cli-test": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from core\""
   },
   "gitHead": "dbac597d8792e149fcc5538a501e2435b930c291",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "dedent": "^0.7.0",
+    "import-local": "^3.1.0",
+    "npmlog": "^6.0.1"
   }
 }
